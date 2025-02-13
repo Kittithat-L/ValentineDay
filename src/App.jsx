@@ -16,7 +16,7 @@ function App() {
     <div className="container">
       <p className='header'><IoRoseOutline />Happy Valentine Day<IoRoseOutline /></p>
       <div className='Video'>
-        <video src={video} type="video/mp4" className='Video1' controls>เบราว์เซอร์ของคุณไม่รองรับการแสดงวิดีโอ</video>
+        <video src={video} type="video/mp4" className='Video1' controls loop>เบราว์เซอร์ของคุณไม่รองรับการแสดงวิดีโอ</video>
       </div>
       <p className='JubCount'>{Count} จุ้บ</p>
       <div className='button'>
