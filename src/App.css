@@ -1,0 +1,9 @@
+.container {
+  background-color: pink;
+  height: 100%;
+}
+.header {
+  text-align: center;
+  font-size: 200%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
